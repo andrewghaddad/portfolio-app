@@ -1,0 +1,36 @@
+.navbar {
+    display: grid;
+    padding: 10px 12px;
+    grid-template-columns: 2fr 1fr;
+}
+
+.nav--logo {
+    align-self: center;
+}
+
+.logo--desktop {
+    display: none;
+}
+
+.nav-items {
+    display: flex;
+    justify-content: space-between;
+    align-self: center; 
+}
+
+@media screen and (min-width: 1440px) {
+    
+    .navbar {
+        display: grid;
+        padding: 20px 115px;
+        grid-template-columns: 6fr 1.5fr;
+    }
+
+    .logo--desktop {
+        display: inline;
+    }
+    
+    .logo--mobile {
+        display: none;
+    }
+}

@@ -1,0 +1,23 @@
+.TitleImage--image {
+    background-repeat: no-repeat; 
+    height: 136px;
+    background-size: 100% 100%;
+}
+
+.TitleImage--text {
+    color: white;
+    padding-top: 80px;
+    padding-left: 12px;
+}
+
+@media screen and (min-width: 1440px) {
+    
+    .TitleImage--image {
+        height: 476px;
+    }
+
+    .TitleImage--text {
+        padding-top: 340px;
+        padding-left: 115px;
+    }
+}

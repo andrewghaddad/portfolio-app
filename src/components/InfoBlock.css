@@ -1,0 +1,22 @@
+.InfoBlock_padding-text {
+    padding-top: 10px;
+}
+
+.InfoBlock-title {
+    padding-bottom: 10px;
+}
+
+.InfoBlock-container {
+    display: inline;
+}
+@media screen and (min-width: 1440px) {
+  .InfoBlock-container {
+    display: grid;
+    grid-template-columns: 350px auto;
+    padding: 20px 0;
+  }
+
+  .InfoBlock_padding-text {
+    padding-top: 20px;
+}
+}

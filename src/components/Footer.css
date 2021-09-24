@@ -1,0 +1,39 @@
+.trademark {
+    display: flex;
+    color: white;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+.desktop-emblem {
+    display: none;
+}
+
+.links {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-item {
+    color: white;
+}
+
+a.link-item:hover {
+    color: white;
+}
+@media screen and (min-width: 1440px) {
+    .footer--desktop {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+    }  
+
+    .desktop-emblem {
+        display: inline;
+        padding-bottom: 10px;
+    }
+
+    .mobile-emblem {
+        display: none;
+    }
+}
