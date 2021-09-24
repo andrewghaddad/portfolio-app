@@ -221,7 +221,7 @@ function RewardPass() {
           subtitle2= "Tools Used"
           text2= "Figma, Adobe XD"
           subtitle3= "Methods used"
-          text3= "Lorem Ipsum"
+          text3= "Constructing problem statements, personas, low-fidelity prototypes, user flow diagrams, quantitive research, and high-fidelity prototypes"
         />
       </div>
       <div className="section">
