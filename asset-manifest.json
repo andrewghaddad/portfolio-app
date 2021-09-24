@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.cea40862.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.26bef0b7.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.26bef0b7.chunk.js.map",
+    "runtime-main.js": "/portfolio-app/static/js/runtime-main.28f5595d.js",
+    "runtime-main.js.map": "/portfolio-app/static/js/runtime-main.28f5595d.js.map",
+    "static/js/2.d9a95204.chunk.js": "/portfolio-app/static/js/2.d9a95204.chunk.js",
+    "static/js/2.d9a95204.chunk.js.map": "/portfolio-app/static/js/2.d9a95204.chunk.js.map",
+    "static/js/3.6aab8f0d.chunk.js": "/portfolio-app/static/js/3.6aab8f0d.chunk.js",
+    "static/js/3.6aab8f0d.chunk.js.map": "/portfolio-app/static/js/3.6aab8f0d.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "static/css/main.cea40862.chunk.css.map": "/portfolio-app/static/css/main.cea40862.chunk.css.map",
+    "static/js/2.d9a95204.chunk.js.LICENSE.txt": "/portfolio-app/static/js/2.d9a95204.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio-app/static/media/CircularStdMedium.3fcb6535.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28f5595d.js",
+    "static/js/2.d9a95204.chunk.js",
+    "static/css/main.cea40862.chunk.css",
+    "static/js/main.26bef0b7.chunk.js"
+  ]
+}
