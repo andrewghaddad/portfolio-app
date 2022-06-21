@@ -29,12 +29,12 @@ function Home() {
       <div className="margin">
         <div className="Headline--section">
           <h1>
-            Hey there 👋, my name is <br></br>Andrew— web developer and product
-            designer.
+            Hey there 👋, my name is <br></br> Andrew— web developer and frontend
+            engineer.
           </h1>
           <h4 className="Subtitle--section">
-            Based in the NYC Metro Area. Currently doing freelance web <br></br>
-            development work at Find Your ID NYC.
+            Currently doing work for Independence Blue Cross developing digital tools and<br></br>
+            applications on their “Digital Front Door” initative.
           </h4>
         </div>
         <div className="WorkThumbnail--container">
