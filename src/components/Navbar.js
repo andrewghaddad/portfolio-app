@@ -43,7 +43,7 @@ export default function Navbar(props) {
         </li>
         <div className="nav-items">
             <p><a href="mailto:andrewghaddad@outlook.com">Email</a></p>
-            <p><a href="Andrew_Haddad_Resume.docx" download="AndrewHaddad_Resume">Resume</a></p>
+            <p><a href="AndrewHaddad_Resume3.docx" download="AndrewHaddad_Resume">Resume</a></p>
         </div>
     </div>
     </>
