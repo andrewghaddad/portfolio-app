@@ -43,7 +43,7 @@ function Home() {
             <Work
               subtitle="Reward Pass"
               overhead="Featured Case Study"
-              image="./public/RP_thumbnail.png"
+              image="../public/RP_thumbnail.png"
             ></Work>
           </div></Link>
           <Link to="/BrickConnect"><div className="thumbnail--wrapper">
