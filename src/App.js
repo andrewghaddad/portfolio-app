@@ -14,7 +14,7 @@ export default function App() {
   return (
     <div className="App">
         <Navbar />
-        <Route exact path="/" component={Home}></Route>
+        <Route exact path="/home" component={Home}></Route>
         <Route exact path="/SLD" component={SLD}></Route>
         <Route exact path="/BrickConnect" component={BrickConnect}></Route>
         <Route exact path="/RewardPass" component={RewardPass}></Route>
